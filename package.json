@@ -1,0 +1,26 @@
+{
+  "name": "git-pick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justindarner/git-pick.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justindarner/git-pick/issues"
+  },
+  "homepage": "https://github.com/justindarner/git-pick#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "inquirer": "^4.0.1",
+    "lodash": "^4.17.4",
+    "nodegit": "^0.20.3",
+    "simple-git": "^1.85.0"
+  }
+}
